@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-BaBDX6Vc.js";const o={};function r(c,n){return a(),e("div")}const l=t(o,[["render",r],["__file","1.html.vue"]]),s=JSON.parse('{"path":"/tags/C__/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,s as data};
