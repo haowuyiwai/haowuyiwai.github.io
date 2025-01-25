@@ -1,3 +1,14 @@
+---
+title: 'weak_ptr'
+publishDate: '2025-1-03'
+updatedDate: '2025-1-10'
+description: 'C++中的weak_ptr'
+tags:
+  - C++
+language: '中文'
+draft: true
+---
+
 # weak_ptr真的不计数吗？是否有计数方式，在哪分配的内存？
 
 **回答：弱引用也有引用计数**
